@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.2aea775e.css",
-    "main.js": "./static/js/main.b32b4312.js",
+    "main.css": "./static/css/main.482c4707.css",
+    "main.js": "./static/js/main.055ba10e.js",
     "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
     "static/media/icon-veteran.png": "./static/media/icon-veteran.8203722996bcb856ac09.png",
     "static/media/the-people-look-in-the-stars.jpg": "./static/media/the-people-look-in-the-stars.c9d91d1c8f90a32ada6d.jpg",
@@ -12,18 +12,21 @@
     "static/media/banner-zraci.png": "./static/media/banner-zraci.e1097d4fe090d2288d75.png",
     "static/media/the-people-rockets-for-mobile.png": "./static/media/the-people-rockets-for-mobile.25033af99b3ab38e5ef9.png",
     "static/media/the-people-rockets.png": "./static/media/the-people-rockets.8b2fb207c90c7344d050.png",
+    "static/media/the-green-planet-for-mobile.png": "./static/media/the-green-planet-for-mobile.d7107898aa4295dbd188.png",
     "static/media/rockets-2.png": "./static/media/rockets-2.25bcbfddf8e585f14e06.png",
     "static/media/banner-circle-yellow.png": "./static/media/banner-circle-yellow.eae69f2899551b3e7f39.png",
     "static/media/x3-wow-the-beach.jpg": "./static/media/x3-wow-the-beach.f20d5da77317e7dcdf8f.jpg",
     "static/media/newsletter-rockets.png": "./static/media/newsletter-rockets.8c850744b84e9d099df1.png",
     "static/media/tv-zraci.png": "./static/media/tv-zraci.55bd2c026610e65041a2.png",
     "static/media/x3-the-lovely-couple-work-together.jpg": "./static/media/x3-the-lovely-couple-work-together.f0aa2219b489184a8732.jpg",
+    "static/media/the-green-planet.png": "./static/media/the-green-planet.62075913a372c209a85e.png",
     "static/media/rockets-2-mobile.png": "./static/media/rockets-2-mobile.cb0b85b106f8f3e4e232.png",
     "static/media/background-planets-stars.jpg": "./static/media/background-planets-stars.357cf8d062b57f6236c5.jpg",
     "static/media/x3-the-man-that-look.jpg": "./static/media/x3-the-man-that-look.f2e2c3bc32553870e067.jpg",
     "static/media/texture-red-2.jpg": "./static/media/texture-red-2.27b65cccf89a9949a691.jpg",
     "static/media/texture-red.jpg": "./static/media/texture-red.a50edcb1a9a1caae4514.jpg",
     "static/media/icon-background-3.png": "./static/media/icon-background-3.e90837502368a162dfe3.png",
+    "static/media/logo-fire.png": "./static/media/logo-fire.2f1d4f21268cbcdf4a53.png",
     "static/media/rockets-2-line.png": "./static/media/rockets-2-line.2e36bd6bfdb4a16ec557.png",
     "static/media/icon-background-effect.png": "./static/media/icon-background-effect.9934f5f0eff64a5023dd.png",
     "static/media/banner-circle-red-left-small.png": "./static/media/banner-circle-red-left-small.d086dcd62c0b8849eb1d.png",
@@ -45,6 +48,7 @@
     "static/media/stars-set-4.png": "./static/media/stars-set-4.f9f56a809f9f10d7e94a.png",
     "static/media/stars-set-3.png": "./static/media/stars-set-3.3b94beb26b5a2370be42.png",
     "static/media/logo-nasta.png": "./static/media/logo-nasta.bdd0efdc1306cb536555.png",
+    "static/media/planet-saturn-red.png": "./static/media/planet-saturn-red.8acb3492469d610d8b62.png",
     "static/media/logo-benzinga.png": "./static/media/logo-benzinga.c32884c392ea8f6ca4b2.png",
     "static/media/stars-set-1.png": "./static/media/stars-set-1.9e1e13e51534dec9f515.png",
     "static/media/icon-2-antena.png": "./static/media/icon-2-antena.73956856952572742ea6.png",
@@ -58,12 +62,12 @@
     "static/media/banner-circle-red-small-2.png": "./static/media/banner-circle-red-small-2.4e0638cac71c1d5503af.png",
     "static/media/stars-set-for-mobile.png": "./static/media/stars-set-for-mobile.4a3e31b3b60010effb0b.png",
     "index.html": "./index.html",
-    "main.2aea775e.css.map": "./static/css/main.2aea775e.css.map",
-    "main.b32b4312.js.map": "./static/js/main.b32b4312.js.map",
+    "main.482c4707.css.map": "./static/css/main.482c4707.css.map",
+    "main.055ba10e.js.map": "./static/js/main.055ba10e.js.map",
     "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aea775e.css",
-    "static/js/main.b32b4312.js"
+    "static/css/main.482c4707.css",
+    "static/js/main.055ba10e.js"
   ]
 }
