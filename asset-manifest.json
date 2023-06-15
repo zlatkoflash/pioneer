@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.482c4707.css",
-    "main.js": "./static/js/main.055ba10e.js",
+    "main.css": "./static/css/main.6ec0864d.css",
+    "main.js": "./static/js/main.6a3438ca.js",
     "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
     "static/media/icon-veteran.png": "./static/media/icon-veteran.8203722996bcb856ac09.png",
     "static/media/the-people-look-in-the-stars.jpg": "./static/media/the-people-look-in-the-stars.c9d91d1c8f90a32ada6d.jpg",
@@ -15,7 +15,6 @@
     "static/media/the-green-planet-for-mobile.png": "./static/media/the-green-planet-for-mobile.d7107898aa4295dbd188.png",
     "static/media/rockets-2.png": "./static/media/rockets-2.25bcbfddf8e585f14e06.png",
     "static/media/banner-circle-yellow.png": "./static/media/banner-circle-yellow.eae69f2899551b3e7f39.png",
-    "static/media/x3-wow-the-beach.jpg": "./static/media/x3-wow-the-beach.f20d5da77317e7dcdf8f.jpg",
     "static/media/newsletter-rockets.png": "./static/media/newsletter-rockets.8c850744b84e9d099df1.png",
     "static/media/tv-zraci.png": "./static/media/tv-zraci.55bd2c026610e65041a2.png",
     "static/media/x3-the-lovely-couple-work-together.jpg": "./static/media/x3-the-lovely-couple-work-together.f0aa2219b489184a8732.jpg",
@@ -62,12 +61,12 @@
     "static/media/banner-circle-red-small-2.png": "./static/media/banner-circle-red-small-2.4e0638cac71c1d5503af.png",
     "static/media/stars-set-for-mobile.png": "./static/media/stars-set-for-mobile.4a3e31b3b60010effb0b.png",
     "index.html": "./index.html",
-    "main.482c4707.css.map": "./static/css/main.482c4707.css.map",
-    "main.055ba10e.js.map": "./static/js/main.055ba10e.js.map",
+    "main.6ec0864d.css.map": "./static/css/main.6ec0864d.css.map",
+    "main.6a3438ca.js.map": "./static/js/main.6a3438ca.js.map",
     "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.482c4707.css",
-    "static/js/main.055ba10e.js"
+    "static/css/main.6ec0864d.css",
+    "static/js/main.6a3438ca.js"
   ]
 }
