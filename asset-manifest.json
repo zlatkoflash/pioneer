@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c8401148.css",
-    "main.js": "./static/js/main.063d0f59.js",
+    "main.css": "./static/css/main.6d525f5f.css",
+    "main.js": "./static/js/main.04f97e98.js",
     "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
     "static/media/icon-veteran.png": "./static/media/icon-veteran.8203722996bcb856ac09.png",
     "static/media/the-people-look-in-the-stars.jpg": "./static/media/the-people-look-in-the-stars.c9d91d1c8f90a32ada6d.jpg",
@@ -24,14 +24,19 @@
     "static/media/background-planets-stars.jpg": "./static/media/background-planets-stars.357cf8d062b57f6236c5.jpg",
     "static/media/x3-the-man-that-look.jpg": "./static/media/x3-the-man-that-look.f2e2c3bc32553870e067.jpg",
     "static/media/texture-red-2.jpg": "./static/media/texture-red-2.27b65cccf89a9949a691.jpg",
+    "static/media/dashboard-background.jpg": "./static/media/dashboard-background.0df82eae252e2f3b1c6d.jpg",
     "static/media/texture-red.jpg": "./static/media/texture-red.a50edcb1a9a1caae4514.jpg",
+    "static/media/login-side-people.png": "./static/media/login-side-people.99b6bd6017cbcfcb221a.png",
     "static/media/icon-background-3.png": "./static/media/icon-background-3.e90837502368a162dfe3.png",
     "static/media/logo-fire.png": "./static/media/logo-fire.2f1d4f21268cbcdf4a53.png",
+    "static/media/login-the-background.jpg": "./static/media/login-the-background.ebfbfeaa0b8871ab681f.jpg",
     "static/media/rockets-2-line.png": "./static/media/rockets-2-line.2e36bd6bfdb4a16ec557.png",
+    "static/media/login-bottom-area.png": "./static/media/login-bottom-area.6d3584e1deb18f03fd59.png",
     "static/media/icon-background-effect.png": "./static/media/icon-background-effect.9934f5f0eff64a5023dd.png",
     "static/media/banner-circle-red-left-small.png": "./static/media/banner-circle-red-left-small.d086dcd62c0b8849eb1d.png",
     "static/media/stars-set-5.png": "./static/media/stars-set-5.d5eb0b0e674305f16c43.png",
     "static/media/post-thumb-background.png": "./static/media/post-thumb-background.865904d7cecd6c17970e.png",
+    "static/media/login-the-stars.png": "./static/media/login-the-stars.7cfb338ed819b75aa8ce.png",
     "static/media/left-yellow-circle.png": "./static/media/left-yellow-circle.892ae3fc7046a1edfd75.png",
     "static/media/eclipse-yellow.png": "./static/media/eclipse-yellow.b6a6181f10f347aab6e9.png",
     "static/media/icon-satelite-antena.png": "./static/media/icon-satelite-antena.779fcb31db00c0228c02.png",
@@ -48,11 +53,13 @@
     "static/media/stars-set-4.png": "./static/media/stars-set-4.f9f56a809f9f10d7e94a.png",
     "static/media/stars-set-3.png": "./static/media/stars-set-3.3b94beb26b5a2370be42.png",
     "static/media/logo-nasta.png": "./static/media/logo-nasta.bdd0efdc1306cb536555.png",
+    "static/media/login-ufo.png": "./static/media/login-ufo.99b01ba72d622d9fa92b.png",
     "static/media/planet-saturn-red.png": "./static/media/planet-saturn-red.8acb3492469d610d8b62.png",
     "static/media/logo-benzinga.png": "./static/media/logo-benzinga.c32884c392ea8f6ca4b2.png",
     "static/media/stars-set-1.png": "./static/media/stars-set-1.9e1e13e51534dec9f515.png",
     "static/media/icon-2-antena.png": "./static/media/icon-2-antena.73956856952572742ea6.png",
     "static/media/logo-wtam.png": "./static/media/logo-wtam.720599d7b18e8ffbd1d8.png",
+    "static/media/login-the-right-planets.png": "./static/media/login-the-right-planets.61b906e6369fc4e5514d.png",
     "static/media/logo-bloomberg.png": "./static/media/logo-bloomberg.1fd99f232e8f1bdab9fc.png",
     "static/media/logo-aol.png": "./static/media/logo-aol.00f9c48bd76f1a987fac.png",
     "static/media/logo-ny-sun.png": "./static/media/logo-ny-sun.fa256bae59af4d32ea5b.png",
@@ -62,12 +69,12 @@
     "static/media/banner-circle-red-small-2.png": "./static/media/banner-circle-red-small-2.4e0638cac71c1d5503af.png",
     "static/media/stars-set-for-mobile.png": "./static/media/stars-set-for-mobile.4a3e31b3b60010effb0b.png",
     "index.html": "./index.html",
-    "main.c8401148.css.map": "./static/css/main.c8401148.css.map",
-    "main.063d0f59.js.map": "./static/js/main.063d0f59.js.map",
+    "main.6d525f5f.css.map": "./static/css/main.6d525f5f.css.map",
+    "main.04f97e98.js.map": "./static/js/main.04f97e98.js.map",
     "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8401148.css",
-    "static/js/main.063d0f59.js"
+    "static/css/main.6d525f5f.css",
+    "static/js/main.04f97e98.js"
   ]
 }
