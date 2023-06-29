@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.0233a35b.css",
-    "main.js": "./static/js/main.48542a67.js",
+    "main.css": "./static/css/main.b31a1880.css",
+    "main.js": "./static/js/main.35fa7184.js",
     "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
     "static/media/icon-veteran.png": "./static/media/icon-veteran.8203722996bcb856ac09.png",
     "static/media/join_today.jpg": "./static/media/join_today.7af964720908df364db9.jpg",
-    "static/media/take_a_stand.jpg": "./static/media/take_a_stand.6af2130c8f38989e74b1.jpg",
+    "static/media/take_a_stand-version-2.jpg": "./static/media/take_a_stand-version-2.87a192c6e16bc22a3754.jpg",
+    "static/media/illustration_join_today_homepage.jpg": "./static/media/illustration_join_today_homepage.db77d61bc388c68d96da.jpg",
+    "static/media/Liberty Litepaper - v1.4.pdf": "./static/media/Liberty Litepaper - v1.4.47983e9e9c79e9df7791.pdf",
     "static/media/the-people-look-in-the-stars.jpg": "./static/media/the-people-look-in-the-stars.c9d91d1c8f90a32ada6d.jpg",
     "static/media/blog_3_post.png": "./static/media/blog_3_post.6059a36861b73c67f842.png",
     "static/media/wallet-illustration.png": "./static/media/wallet-illustration.25874e44c16a58ca03fb.png",
@@ -75,12 +77,12 @@
     "static/media/banner-circle-red-small-2.png": "./static/media/banner-circle-red-small-2.4e0638cac71c1d5503af.png",
     "static/media/stars-set-for-mobile.png": "./static/media/stars-set-for-mobile.4a3e31b3b60010effb0b.png",
     "index.html": "./index.html",
-    "main.0233a35b.css.map": "./static/css/main.0233a35b.css.map",
-    "main.48542a67.js.map": "./static/js/main.48542a67.js.map",
+    "main.b31a1880.css.map": "./static/css/main.b31a1880.css.map",
+    "main.35fa7184.js.map": "./static/js/main.35fa7184.js.map",
     "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0233a35b.css",
-    "static/js/main.48542a67.js"
+    "static/css/main.b31a1880.css",
+    "static/js/main.35fa7184.js"
   ]
 }
