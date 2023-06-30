@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b0fdc958.css",
-    "main.js": "./static/js/main.6d347ea1.js",
+    "main.css": "./static/css/main.f18e314f.css",
+    "main.js": "./static/js/main.a2898ced.js",
     "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
     "static/media/icon-veteran.png": "./static/media/icon-veteran.8203722996bcb856ac09.png",
     "static/media/join_today.jpg": "./static/media/join_today.7af964720908df364db9.jpg",
@@ -77,12 +77,12 @@
     "static/media/banner-circle-red-small-2.png": "./static/media/banner-circle-red-small-2.4e0638cac71c1d5503af.png",
     "static/media/stars-set-for-mobile.png": "./static/media/stars-set-for-mobile.4a3e31b3b60010effb0b.png",
     "index.html": "./index.html",
-    "main.b0fdc958.css.map": "./static/css/main.b0fdc958.css.map",
-    "main.6d347ea1.js.map": "./static/js/main.6d347ea1.js.map",
+    "main.f18e314f.css.map": "./static/css/main.f18e314f.css.map",
+    "main.a2898ced.js.map": "./static/js/main.a2898ced.js.map",
     "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0fdc958.css",
-    "static/js/main.6d347ea1.js"
+    "static/css/main.f18e314f.css",
+    "static/js/main.a2898ced.js"
   ]
 }
